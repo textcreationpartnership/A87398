@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Joyfull nevves from Colchester declaring, the proceedings of the Kings forces, under the command of Generall Lucas, against the Parliam[e]nts forces commanded by the Lord Gen. Fairfax, and the successe and achivements of the said army. With their severall fights and skirmishes upon Friday and Saturday last, and a relation concerning the relieving of Colchester, by the Swallow, and some other of the Kings ships from Holland. Likewise, a letter sent from Gen. Lucas to the Lord Generall Fairfax, and severall proposi[t]ions propounded for peace, and bringing of the King to London.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87398</idno><idno type="EEBO-CITATION">99864359</idno>
+  <idno type="VID">161978</idno>
+  <idno type="EEBO-PROQUEST">2240902321</idno>
+  
+            <idno type="STC">Wing J1135</idno>
+            <idno type="STC">Thomason E452_41</idno>
+            <idno type="STC">ESTC R204911</idno>
+            <idno type="PROQUEST">99864359</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864359e"/>
+            <note>(EEBO-TCP ; phase 2, no. A87398)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161978)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E452[41])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Joyfull nevves from Colchester declaring, the proceedings of the Kings forces, under the command of Generall Lucas, against the Parliam[e]nts forces commanded by the Lord Gen. Fairfax, and the successe and achivements of the said army. With their severall fights and skirmishes upon Friday and Saturday last, and a relation concerning the relieving of Colchester, by the Swallow, and some other of the Kings ships from Holland. Likewise, a letter sent from Gen. Lucas to the Lord Generall Fairfax, and severall proposi[t]ions propounded for peace, and bringing of the King to London.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for generall satisfaction of all loyall and true-hearted subjects,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July. 17.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Colchester (England) --  History --  Siege, 1648 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161978:1"/>
+            <p>JOYFULL NEVVES FROM COLCHESTER DECLARING, The proceedings of the Kings Forces, under the Command of Generall LUCAS, against the Parliam<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nts Forces Commanded by the Lord Gen. <hi>Fairfax,</hi> and the successe and atchivements of the said Army. With their severall Fights and Skirmishes upon Friday and Saturday last, and a Relation concerning the re<g ref="char:EOLhyphen"/>lieving of <hi>Colchester,</hi> by the <hi>Swallow,</hi> and some other of the Kings Ships from <hi>Holland.</hi> Likewise, a Letter sent from Gen. <hi>Lucas,</hi> to the Lord Ge<g ref="char:EOLhyphen"/>nerall <hi>Fairfax,</hi> And severall Proposi<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ions propoun<g ref="char:EOLhyphen"/>ded for Peace, and bringing of the King to <hi>London.</hi>
+            </p>
+            <p>
+               <hi>LONDON, Printed for generall satisfaction of all loyall and true-hearted Subjects.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="report">
+            <pb facs="tcp:161978:2"/>
+            <pb n="1" facs="tcp:161978:2"/>
+            <head>Bloody Newes from <hi>Colchester,</hi> and the further proceedings of Sir <hi>Charles Lu<g ref="char:EOLhyphen"/>cas,</hi> and their threatning speeches to the Army, if they do not speedily draw off.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <div type="section">
+               <p>THe Enemy in the Town begins to grow farre more insolent then formerly, they give out threa<g ref="char:EOLhyphen"/>tening speeches, and brag much of their Victory over the Suffolk forces, sa<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing, they will make us drink of the same Cup before the quart<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> is ended, exp<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cting sup<g ref="char:EOLhyphen"/>plyes from <hi>Holland</hi> either fr<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m the <hi>Prince</hi> or <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <hi>Duke,</hi> but it is conceived t<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eir hopes wil be frustrated, for Cap<g ref="char:EOLhyphen"/>tain <hi>Green</hi> Captain <hi>Pe<gap reason="illegible" resp="#oxf" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>cock,</hi> and other of the Parliaments Ships, rideth up<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the R<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>d, adjoyning to the Block-hou<g ref="char:EOLhyphen"/>ses, and are ready to attend the motion of any force what<g ref="char:EOLhyphen"/>soever that shall endeavour to make an inroad there.</p>
+               <p>We have had severall fights and skirmishes with the besieged, and they have received severall charges from us, with great Resolution, but have been repulsed and beaten in, with the losse of 20. or 30. men at a time; As for the Rumour ecchoed up and down the City, and other parts
+<pb n="2" facs="tcp:161978:3"/> adjacent, that our Army is drawn off from the siege, I can assure you it is utterly false; We maintain the Line, and have raised severall Forts and sconces nearer the Town.</p>
+            </div>
+            <div type="section">
+               <opener>
+                  <salute>SIR.</salute>
+               </opener>
+               <p>Tuesday last Col. <hi>Whaley</hi> mounted a Culverin himselfe and fired at the L. <hi>Gorings</hi> chief Gunner, (who hath done much execution, being an absolute Gunner) judg<g ref="char:EOLhyphen"/>ment and fortune so joyned herein, that the shot be prov<g ref="char:EOLhyphen"/>ed effectuall, to the losse of the Gunners life: six of the e<g ref="char:EOLhyphen"/>nemy came into his Excellency this morning, (all foot,) upon an examination by his Excellency, and some other chief Officers, they said, three quarters of a pound of beef was alowed to each <hi>per diem,</hi> and once in three dayes they have meat; for the most paa<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> eat nothing but Rie bread, and drinke water of late, though much wine in the Town with which the Officers make merry; and if they had had provision enough within, they should not so soon have deserted the Garrison: His Excellencie, with most of the chief Officers, viewed the Town, and sent out a par-of 400 foot, and 200 horse, to take advantage of the ene<g ref="char:EOLhyphen"/>my if any opportunity happened; the party went up bold<g ref="char:EOLhyphen"/>ly, and dared much, but no enemy dared to appear a<g ref="char:EOLhyphen"/>gainst them: In the afternoon, they tryed the enemy with a small party, which went up into the Subburbs, and hal<g ref="char:EOLhyphen"/>ed one horseman and five foot out of houses, which they brought in prisoners: Two great Guns plaid all day a<g ref="char:EOLhyphen"/>gainst <hi>Maries</hi> Steeple, where the Enemy had one that much anoyed the besiegers, but to little purpose; being musquet shot from the Town; direction was given for a a work to be made 60 yards nearer by the morrow morning, and the Cannon to be planted there, and the Gunners not to cease fiering till the <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>the Steeple was
+<pb n="3" facs="tcp:161978:3"/> beat down; a Redoubt was made near Sir <hi>Iohn Lucas</hi> his house the enemy plaid all day, but the work was perfe<g ref="char:EOLhyphen"/>cted wi<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hout any losse. About 11. at night the Gen. had notice the enemy was making a bridge, endeavouring to escape, Orders went out for a party to waite privately for them, which the enemy perceiving desisted.</p>
+               <p>The 2. Culverins that plaid yesterday to batter down Maries Church, were by his Excellencies Order, planted 60. paces nearer then before, being within Pistoll shot, they fired near 80. peeces at the Steeple, sildom m<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ssing execution, tearing it in severall places, the enemy firing but 2. pieces upon them all that day, and those in the mor<g ref="char:EOLhyphen"/>ning, who soone after dismounted their Cannon, and took down the Bels, the place being too hot for them: Fourteen Prisoners exchanged this day, who marching towards the Town, with a small guard they within fired a peice upon them but did no execution, at which they held up hankerchiefs, being answered from within with white Flags. A souldier lying in his hut had both his legs shot off by the enemy; another divided in the middle; &amp; a third shot in the breast. Our soldiers went severall times into the Suburbs, brought away much plunder, and ad<g ref="char:EOLhyphen"/>vansing up to their works, killed one man, retreating withou<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> losse.</p>
+               <p>A commanded party of horse also from the Leagure ad<g ref="char:EOLhyphen"/>vanced into the Suburbs, took many prisoners horse and foot▪ More of their foot came to the General.</p>
+            </div>
+            <div type="section">
+               <head>The proceedin<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of the House of Peers, concerning their bring<g ref="char:EOLhyphen"/>ing the King to London.</head>
+               <p>Th<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Right Honourable the House of Peeres having ta<g ref="char:EOLhyphen"/>ken into their serious considerations, the long sufferings
+<pb n="4" facs="tcp:161978:4"/> of this bleeding disconsolated Kingdom, and the heavie burdens and oppressions of the people, which they have for these 6. or 7. years groaned under; therefore, to remedy the same (under God) and to prevent the like commoti<g ref="char:EOLhyphen"/>ons and sad distractions for the future, they have agreed upon certain Propositions for Peace, touching the speedy bringing of the King to London, and desi<gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e the Concur<g ref="char:EOLhyphen"/>rence of the House of Commons therein; which Proposi<g ref="char:EOLhyphen"/>tions, I shall here give you verbatim, as followeth, <hi>viz.</hi>
+                  <q>
+                     <floatingText xml:lang="eng">
+                        <body>
+                           <div type="list_of_propositions">
+                              <p n="1">1 That so there may be no delay in the Parliament<gap reason="illegible" resp="#oxf" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap> Treaty with the King, A speedy personal Treaty being so much desired and Peti<g ref="char:EOLhyphen"/>tioned for, by the City of <hi>London,</hi> and divers Countyes, That it must needes be delatory, his Majesty having severall times decla<g ref="char:EOLhyphen"/>red that he will signe nothing untill all things be fully conclu<g ref="char:EOLhyphen"/>ded.</p>
+                              <p n="2">2. That it is contrary to the Rules of a Treaty between any per<g ref="char:EOLhyphen"/>sons, for one party to grant to the other those things, which are of most concernment, before any thing in the Treaty be insisted on. That therefore the Parliament may declare by their Action as well as verball, that they do really desire PEACE.</p>
+                              <p n="3">3 To keepe a faire correspondency with the Kingdome of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> who in their Papers desire that his Majesty may come to some of his houses near <hi>London,</hi> where both Kingdoms may make their ad<g ref="char:EOLhyphen"/>dresses to him for a safe and wel-grounded Peace.</p>
+                              <p n="4">4. That there may be no delay by staying for the Answer of the Kingdome of <hi>Scotland</hi> to those Propositions before the Treaty,</p>
+                              <p n="5">5 That it was the sence of the Parliament, (concurring with the Kingdome of <hi>Scotland</hi>) to treate with his Majesty at <hi>Vxbridge,</hi> and <hi>Oxford,</hi> when the Kings forces could equall theirs, and that therefore their Lordships conceive; there needes lesse suspition to be made now, then was then, to have all things referred to a personall Treaty with the Kings Majesty.</p>
+                              <p>It was declared also by their Lordships at this Conference. That they desire not to be mistaken herein. For they propounded that these
+<pb n="5" facs="tcp:161978:4"/> 3. might be the first matter treated on. And being agreed on: to be passed into Bills, after the rest are agreed, betwen his Majesty, and the Parliament for the setling of the peace of the Kingdome.</p>
+                           </div>
+                        </body>
+                     </floatingText>
+                  </q>
+               </p>
+               <p>A Porter coming in a disguised manner from the bell in Gracious street London got into Col<g ref="char:EOLhyphen"/>chester, with intelligence from this City, assu<g ref="char:EOLhyphen"/>ring them that if they would but maintaine the Town till the 18 of this instant Iuly they would have assistance enough, both from London, and other parts adjacent; this morn<g ref="char:EOLhyphen"/>ing the besieged plaid hard with their great Guns, out of the Town and did some execution in our leagure, &amp; we answered them again with severall vollies, the Lord Norwich the Lord capel, and Sir Charles Lucas hath sent a letter to his Excellency, touching the exchange of prisoners, as also in the said letter, a paper inclosed sent from collonel Whaley, intimating That they could not but admire at the strange language expressed therein, viz. biding them brag of their late salley vppon the Suffolk men, and if they would dare to make another, he would beate his cowardly souldiers worse then before, We heare that there is a great rumour in London, that colchester is releived, and our
+<pb n="6" facs="tcp:161978:5"/> Army drawn off, and that the Swallow and some other ships, have brought them great store of provisions, as Biskets, chese and butter, and other necessaries, to which I answer; that their digressions are numerous, and their vaine-glo<g ref="char:EOLhyphen"/>rious expressions infinit, proceeding only from the hearts of wicked men for I can assure you the said report and rumovr is of no certainty.</p>
+            </div>
+            <closer>
+               <dateline>Colchester Leagure, <date>July 15. 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
